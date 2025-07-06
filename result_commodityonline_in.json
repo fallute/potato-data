@@ -1203,9 +1203,9 @@
       "State": "kerala"
     },
     {
-      "Current_Price": 1125.0,
-      "Minimum_Price": 650.0,
-      "Maximum_Price": 1900.0,
+      "Current_Price": null,
+      "Minimum_Price": null,
+      "Maximum_Price": null,
       "State": "madhya-pradesh"
     },
     {
@@ -1233,15 +1233,15 @@
       "State": "mizoram"
     },
     {
-      "Current_Price": 4100.0,
-      "Minimum_Price": 4000.0,
-      "Maximum_Price": 4200.0,
-      "State": "nagaland"
-    },
-    {
       "Current_Price": null,
       "Minimum_Price": null,
       "Maximum_Price": null,
+      "State": "nagaland"
+    },
+    {
+      "Current_Price": 1700.0,
+      "Minimum_Price": 1200.0,
+      "Maximum_Price": 2500.0,
       "State": "odisha"
     },
     {
