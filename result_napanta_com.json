@@ -1162,9 +1162,9 @@
     },
     {
       "State": "bihar",
-      "Maximum_Price": 1748,
-      "Current_Price": 1647,
-      "Minimum_Price": 1543
+      "Maximum_Price": 1761,
+      "Current_Price": 1660,
+      "Minimum_Price": 1557
     },
     {
       "State": "chandigarh",
@@ -1216,9 +1216,9 @@
     },
     {
       "State": "kerala",
-      "Maximum_Price": 3706,
-      "Current_Price": 3479,
-      "Minimum_Price": 3236
+      "Maximum_Price": 3702,
+      "Current_Price": 3474,
+      "Minimum_Price": 3232
     },
     {
       "State": "madhya-pradesh",
@@ -1228,9 +1228,9 @@
     },
     {
       "State": "maharashtra",
-      "Maximum_Price": 2040,
-      "Current_Price": 1725,
-      "Minimum_Price": 1387
+      "Maximum_Price": 2001,
+      "Current_Price": 1688,
+      "Minimum_Price": 1352
     },
     {
       "State": "manipur",

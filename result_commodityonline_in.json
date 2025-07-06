@@ -1173,9 +1173,9 @@
       "State": "gujarat"
     },
     {
-      "Current_Price": 1300.0,
-      "Minimum_Price": 1000.0,
-      "Maximum_Price": 3500.0,
+      "Current_Price": null,
+      "Minimum_Price": null,
+      "Maximum_Price": null,
       "State": "haryana"
     },
     {
@@ -1191,9 +1191,9 @@
       "State": "jharkhand"
     },
     {
-      "Current_Price": 2218.5,
-      "Minimum_Price": 1500.0,
-      "Maximum_Price": 3000.0,
+      "Current_Price": null,
+      "Minimum_Price": null,
+      "Maximum_Price": null,
       "State": "karnataka"
     },
     {
@@ -1209,9 +1209,9 @@
       "State": "madhya-pradesh"
     },
     {
-      "Current_Price": null,
-      "Minimum_Price": null,
-      "Maximum_Price": null,
+      "Current_Price": 1643.75,
+      "Minimum_Price": 1000.0,
+      "Maximum_Price": 2500.0,
       "State": "maharashtra"
     },
     {
