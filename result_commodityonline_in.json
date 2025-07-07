@@ -1403,9 +1403,9 @@
       "State": "nagaland"
     },
     {
-      "Current_Price": null,
-      "Minimum_Price": null,
-      "Maximum_Price": null,
+      "Current_Price": 1940.0,
+      "Minimum_Price": 1100.0,
+      "Maximum_Price": 3000.0,
       "State": "odisha"
     },
     {
