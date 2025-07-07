@@ -1427,9 +1427,9 @@
       "State": "tamil-nadu"
     },
     {
-      "Current_Price": null,
-      "Minimum_Price": null,
-      "Maximum_Price": null,
+      "Current_Price": 2500.0,
+      "Minimum_Price": 2300.0,
+      "Maximum_Price": 2800.0,
       "State": "telangana"
     },
     {

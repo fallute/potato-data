@@ -1380,15 +1380,15 @@
     },
     {
       "State": "gujarat",
-      "Minimum_Price": 1080,
-      "Maximum_Price": 1753,
-      "Current_Price": 1439
+      "Minimum_Price": 1006,
+      "Maximum_Price": 1745,
+      "Current_Price": 1445
     },
     {
       "State": "haryana",
-      "Minimum_Price": 1221,
-      "Maximum_Price": 1445,
-      "Current_Price": 1348
+      "Minimum_Price": 1189,
+      "Maximum_Price": 1405,
+      "Current_Price": 1305
     },
     {
       "State": "himachal-pradesh",
@@ -1416,9 +1416,9 @@
     },
     {
       "State": "kerala",
-      "Minimum_Price": 2916,
-      "Maximum_Price": 3447,
-      "Current_Price": 3211
+      "Minimum_Price": 2890,
+      "Maximum_Price": 3429,
+      "Current_Price": 3186
     },
     {
       "State": "madhya-pradesh",
@@ -1458,15 +1458,15 @@
     },
     {
       "State": "odisha",
-      "Minimum_Price": 1685,
-      "Maximum_Price": 2025,
-      "Current_Price": 1851
+      "Minimum_Price": 1714,
+      "Maximum_Price": 2015,
+      "Current_Price": 1864
     },
     {
       "State": "punjab",
-      "Minimum_Price": 939,
-      "Maximum_Price": 1218,
-      "Current_Price": 1081
+      "Minimum_Price": 958,
+      "Maximum_Price": 1206,
+      "Current_Price": 1084
     },
     {
       "State": "rajasthan",
@@ -1488,15 +1488,15 @@
     },
     {
       "State": "tripura",
-      "Minimum_Price": 1725,
-      "Maximum_Price": 1925,
-      "Current_Price": 1825
+      "Minimum_Price": 1720,
+      "Maximum_Price": 1900,
+      "Current_Price": 1810
     },
     {
       "State": "uttar-pradesh",
-      "Minimum_Price": 1124,
-      "Maximum_Price": 1271,
-      "Current_Price": 1196
+      "Minimum_Price": 1133,
+      "Maximum_Price": 1275,
+      "Current_Price": 1202
     },
     {
       "State": "uttrakhand",
@@ -1506,9 +1506,9 @@
     },
     {
       "State": "west-bengal",
-      "Minimum_Price": 1355,
-      "Maximum_Price": 1432,
-      "Current_Price": 1389
+      "Minimum_Price": 1352,
+      "Maximum_Price": 1426,
+      "Current_Price": 1385
     }
   ]
 }
