@@ -1331,9 +1331,9 @@
       "State": "delhi"
     },
     {
-      "Current_Price": null,
-      "Minimum_Price": null,
-      "Maximum_Price": null,
+      "Current_Price": 885.0,
+      "Minimum_Price": 220.0,
+      "Maximum_Price": 1900.0,
       "State": "gujarat"
     },
     {
@@ -1409,9 +1409,9 @@
       "State": "odisha"
     },
     {
-      "Current_Price": null,
-      "Minimum_Price": null,
-      "Maximum_Price": null,
+      "Current_Price": 1180.0,
+      "Minimum_Price": 800.0,
+      "Maximum_Price": 1600.0,
       "State": "punjab"
     },
     {
