@@ -1351,20 +1351,20 @@
     {
       "State": "gujarat",
       "Maximum_Price": 1648,
-      "Current_Price": 1400,
-      "Minimum_Price": 1073
+      "Current_Price": 1404,
+      "Minimum_Price": 1080
     },
     {
       "State": "haryana",
-      "Maximum_Price": 1253,
+      "Maximum_Price": 1255,
       "Current_Price": 1106,
       "Minimum_Price": 981
     },
     {
       "State": "himachal-pradesh",
-      "Maximum_Price": 1844,
-      "Current_Price": 1591,
-      "Minimum_Price": 1334
+      "Maximum_Price": 1822,
+      "Current_Price": 1573,
+      "Minimum_Price": 1322
     },
     {
       "State": "jharkhand",
@@ -1374,9 +1374,9 @@
     },
     {
       "State": "karnataka",
-      "Maximum_Price": 2265,
-      "Current_Price": 1990,
-      "Minimum_Price": 1684
+      "Maximum_Price": 2260,
+      "Current_Price": 1985,
+      "Minimum_Price": 1679
     },
     {
       "State": "kerala",
@@ -1386,15 +1386,15 @@
     },
     {
       "State": "madhya-pradesh",
-      "Maximum_Price": 1194,
-      "Current_Price": 1123,
-      "Minimum_Price": 1024
+      "Maximum_Price": 1189,
+      "Current_Price": 1118,
+      "Minimum_Price": 1020
     },
     {
       "State": "maharashtra",
-      "Maximum_Price": 1994,
+      "Maximum_Price": 1998,
       "Current_Price": 1680,
-      "Minimum_Price": 1345
+      "Minimum_Price": 1340
     },
     {
       "State": "manipur",
@@ -1422,13 +1422,13 @@
     },
     {
       "State": "odisha",
-      "Maximum_Price": 1953,
+      "Maximum_Price": 1956,
       "Current_Price": 1853,
-      "Minimum_Price": 1724
+      "Minimum_Price": 1736
     },
     {
       "State": "punjab",
-      "Maximum_Price": 1144,
+      "Maximum_Price": 1143,
       "Current_Price": 999,
       "Minimum_Price": 876
     },
@@ -1470,9 +1470,9 @@
     },
     {
       "State": "west-bengal",
-      "Maximum_Price": 1268,
-      "Current_Price": 1230,
-      "Minimum_Price": 1193
+      "Maximum_Price": 1270,
+      "Current_Price": 1231,
+      "Minimum_Price": 1195
     }
   ]
 }

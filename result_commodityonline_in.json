@@ -1373,9 +1373,9 @@
       "State": "madhya-pradesh"
     },
     {
-      "Current_Price": null,
-      "Minimum_Price": null,
-      "Maximum_Price": null,
+      "Current_Price": 1577.27,
+      "Minimum_Price": 300.0,
+      "Maximum_Price": 2500.0,
       "State": "maharashtra"
     },
     {
