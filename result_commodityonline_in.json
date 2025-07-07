@@ -1445,9 +1445,9 @@
       "State": "uttar-pradesh"
     },
     {
-      "Current_Price": null,
-      "Minimum_Price": null,
-      "Maximum_Price": null,
+      "Current_Price": 866.67,
+      "Minimum_Price": 500.0,
+      "Maximum_Price": 1200.0,
       "State": "uttrakhand"
     },
     {
