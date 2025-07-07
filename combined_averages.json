@@ -74,9 +74,9 @@
     },
     {
       "State": "kerala",
-      "Current_Price": 3342.95,
-      "Minimum_Price": 2891.8,
-      "Maximum_Price": 3859.0
+      "Current_Price": 3352.55,
+      "Minimum_Price": 2902.0,
+      "Maximum_Price": 3868.2
     },
     {
       "State": "madhya-pradesh",
@@ -158,8 +158,8 @@
     },
     {
       "State": "uttar-pradesh",
-      "Current_Price": 1192.82,
-      "Minimum_Price": 991.5,
+      "Current_Price": 1193.07,
+      "Minimum_Price": 991.75,
       "Maximum_Price": 1420.33
     },
     {
