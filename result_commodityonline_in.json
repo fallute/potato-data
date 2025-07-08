@@ -1513,9 +1513,9 @@
       "State": "himachal-pradesh"
     },
     {
-      "Current_Price": null,
-      "Minimum_Price": null,
-      "Maximum_Price": null,
+      "Current_Price": 0,
+      "Minimum_Price": 0,
+      "Maximum_Price": 0,
       "State": "jharkhand"
     },
     {
@@ -1555,9 +1555,9 @@
       "State": "meghalaya"
     },
     {
-      "Current_Price": null,
-      "Minimum_Price": null,
-      "Maximum_Price": null,
+      "Current_Price": 0,
+      "Minimum_Price": 0,
+      "Maximum_Price": 0,
       "State": "mizoram"
     },
     {
