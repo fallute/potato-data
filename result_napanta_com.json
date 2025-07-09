@@ -1684,7 +1684,7 @@
     },
     {
       "State": "haryana",
-      "Maximum_Price": 1282,
+      "Maximum_Price": 1283,
       "Current_Price": 1129,
       "Minimum_Price": 990
     },
@@ -1702,9 +1702,9 @@
     },
     {
       "State": "karnataka",
-      "Maximum_Price": 2262,
-      "Current_Price": 1984,
-      "Minimum_Price": 1667
+      "Maximum_Price": 2270,
+      "Current_Price": 1992,
+      "Minimum_Price": 1674
     },
     {
       "State": "kerala",
@@ -1720,9 +1720,9 @@
     },
     {
       "State": "maharashtra",
-      "Maximum_Price": 2004,
-      "Current_Price": 1688,
-      "Minimum_Price": 1344
+      "Maximum_Price": 2002,
+      "Current_Price": 1687,
+      "Minimum_Price": 1341
     },
     {
       "State": "manipur",
