@@ -2018,9 +2018,9 @@
     },
     {
       "State": "himachal-pradesh",
-      "Maximum_Price": 1862,
-      "Current_Price": 1647,
-      "Minimum_Price": 1403
+      "Maximum_Price": 1866,
+      "Current_Price": 1639,
+      "Minimum_Price": 1388
     },
     {
       "State": "jharkhand",
@@ -2126,8 +2126,8 @@
     },
     {
       "State": "west-bengal",
-      "Maximum_Price": 1258,
-      "Current_Price": 1224,
+      "Maximum_Price": 1257,
+      "Current_Price": 1223,
       "Minimum_Price": 1188
     }
   ]

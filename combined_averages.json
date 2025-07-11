@@ -2078,9 +2078,9 @@
     },
     {
       "State": "himachal-pradesh",
-      "Current_Price": 1759.9,
-      "Minimum_Price": 1289.41,
-      "Maximum_Price": 2300.38
+      "Current_Price": 1758.3,
+      "Minimum_Price": 1286.41,
+      "Maximum_Price": 2301.18
     },
     {
       "State": "jammu-and-kashmir",
@@ -2192,9 +2192,9 @@
     },
     {
       "State": "west-bengal",
-      "Current_Price": 1304.88,
+      "Current_Price": 1304.68,
       "Minimum_Price": 1217.68,
-      "Maximum_Price": 1546.58
+      "Maximum_Price": 1546.38
     }
   ]
 }
