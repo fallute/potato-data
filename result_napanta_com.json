@@ -2006,21 +2006,21 @@
     },
     {
       "State": "gujarat",
-      "Maximum_Price": 1597,
-      "Current_Price": 1358,
-      "Minimum_Price": 1080
+      "Maximum_Price": 1612,
+      "Current_Price": 1374,
+      "Minimum_Price": 1095
     },
     {
       "State": "haryana",
-      "Maximum_Price": 1330,
-      "Current_Price": 1152,
-      "Minimum_Price": 1004
+      "Maximum_Price": 1332,
+      "Current_Price": 1155,
+      "Minimum_Price": 1006
     },
     {
       "State": "himachal-pradesh",
-      "Maximum_Price": 1866,
-      "Current_Price": 1645,
-      "Minimum_Price": 1409
+      "Maximum_Price": 1850,
+      "Current_Price": 1634,
+      "Minimum_Price": 1403
     },
     {
       "State": "jharkhand",
@@ -2042,15 +2042,15 @@
     },
     {
       "State": "madhya-pradesh",
-      "Maximum_Price": 1201,
+      "Maximum_Price": 1199,
       "Current_Price": 1130,
-      "Minimum_Price": 1051
+      "Minimum_Price": 1053
     },
     {
       "State": "maharashtra",
       "Maximum_Price": 2016,
-      "Current_Price": 1709,
-      "Minimum_Price": 1387
+      "Current_Price": 1703,
+      "Minimum_Price": 1371
     },
     {
       "State": "manipur",
@@ -2078,14 +2078,14 @@
     },
     {
       "State": "odisha",
-      "Maximum_Price": 2030,
-      "Current_Price": 1934,
-      "Minimum_Price": 1792
+      "Maximum_Price": 1996,
+      "Current_Price": 1900,
+      "Minimum_Price": 1760
     },
     {
       "State": "punjab",
       "Maximum_Price": 1189,
-      "Current_Price": 1064,
+      "Current_Price": 1065,
       "Minimum_Price": 935
     },
     {
@@ -2108,9 +2108,9 @@
     },
     {
       "State": "tripura",
-      "Maximum_Price": 2247,
-      "Current_Price": 2102,
-      "Minimum_Price": 1951
+      "Maximum_Price": 2250,
+      "Current_Price": 2104,
+      "Minimum_Price": 1954
     },
     {
       "State": "uttar-pradesh",
@@ -2128,7 +2128,7 @@
       "State": "west-bengal",
       "Maximum_Price": 1259,
       "Current_Price": 1225,
-      "Minimum_Price": 1190
+      "Minimum_Price": 1189
     }
   ]
 }
