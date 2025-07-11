@@ -2054,9 +2054,9 @@
     },
     {
       "State": "chattisgarh",
-      "Minimum_Price": 0,
-      "Maximum_Price": 0,
-      "Current_Price": 0
+      "Minimum_Price": 1450,
+      "Maximum_Price": 1750,
+      "Current_Price": 1550
     },
     {
       "State": "delhi",
@@ -2072,9 +2072,9 @@
     },
     {
       "State": "haryana",
-      "Minimum_Price": 1152,
-      "Maximum_Price": 1504,
-      "Current_Price": 1316
+      "Minimum_Price": 1226,
+      "Maximum_Price": 1564,
+      "Current_Price": 1384
     },
     {
       "State": "himachal-pradesh",
@@ -2096,9 +2096,9 @@
     },
     {
       "State": "karnataka",
-      "Minimum_Price": 0,
-      "Maximum_Price": 0,
-      "Current_Price": 0
+      "Minimum_Price": 1800,
+      "Maximum_Price": 2125,
+      "Current_Price": 1925
     },
     {
       "State": "kerala",
@@ -2108,15 +2108,15 @@
     },
     {
       "State": "madhya-pradesh",
-      "Minimum_Price": 1150,
-      "Maximum_Price": 1402,
-      "Current_Price": 1255
+      "Minimum_Price": 1095,
+      "Maximum_Price": 1313,
+      "Current_Price": 1185
     },
     {
       "State": "maharashtra",
-      "Minimum_Price": 1410,
-      "Maximum_Price": 1914,
-      "Current_Price": 1645
+      "Minimum_Price": 1383,
+      "Maximum_Price": 1906,
+      "Current_Price": 1629
     },
     {
       "State": "manipur",
@@ -2126,9 +2126,9 @@
     },
     {
       "State": "meghalaya",
-      "Minimum_Price": 0,
-      "Maximum_Price": 0,
-      "Current_Price": 0
+      "Minimum_Price": 1600,
+      "Maximum_Price": 1800,
+      "Current_Price": 1700
     },
     {
       "State": "mizoram",
@@ -2162,9 +2162,9 @@
     },
     {
       "State": "tamil-nadu",
-      "Minimum_Price": 0,
-      "Maximum_Price": 0,
-      "Current_Price": 0
+      "Minimum_Price": 3558,
+      "Maximum_Price": 4366,
+      "Current_Price": 4366
     },
     {
       "State": "telangana",

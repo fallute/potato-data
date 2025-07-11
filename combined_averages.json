@@ -2054,9 +2054,9 @@
     },
     {
       "State": "chattisgarh",
-      "Current_Price": 1626.22,
-      "Minimum_Price": 1369.44,
-      "Maximum_Price": 1812.67
+      "Current_Price": 1607.16,
+      "Minimum_Price": 1389.58,
+      "Maximum_Price": 1797.0
     },
     {
       "State": "delhi",
@@ -2072,9 +2072,9 @@
     },
     {
       "State": "haryana",
-      "Current_Price": 1296.65,
-      "Minimum_Price": 989.46,
-      "Maximum_Price": 1876.36
+      "Current_Price": 1310.25,
+      "Minimum_Price": 1004.26,
+      "Maximum_Price": 1888.36
     },
     {
       "State": "himachal-pradesh",
@@ -2096,9 +2096,9 @@
     },
     {
       "State": "karnataka",
-      "Current_Price": 2158.25,
-      "Minimum_Price": 1731.5,
-      "Maximum_Price": 2548.0
+      "Current_Price": 2111.6,
+      "Minimum_Price": 1745.2,
+      "Maximum_Price": 2463.4
     },
     {
       "State": "kerala",
@@ -2108,15 +2108,15 @@
     },
     {
       "State": "madhya-pradesh",
-      "Current_Price": 1232.44,
-      "Minimum_Price": 1072.2,
-      "Maximum_Price": 1582.93
+      "Current_Price": 1218.44,
+      "Minimum_Price": 1061.2,
+      "Maximum_Price": 1565.13
     },
     {
       "State": "maharashtra",
-      "Current_Price": 1648.48,
-      "Minimum_Price": 1321.6,
-      "Maximum_Price": 2025.47
+      "Current_Price": 1645.28,
+      "Minimum_Price": 1316.2,
+      "Maximum_Price": 2023.87
     },
     {
       "State": "manipur",
@@ -2126,9 +2126,9 @@
     },
     {
       "State": "meghalaya",
-      "Current_Price": 2541.67,
-      "Minimum_Price": 1972.22,
-      "Maximum_Price": 3144.44
+      "Current_Price": 2331.25,
+      "Minimum_Price": 1879.17,
+      "Maximum_Price": 2808.33
     },
     {
       "State": "mizoram",
@@ -2162,9 +2162,9 @@
     },
     {
       "State": "tamil-nadu",
-      "Current_Price": 4309.66,
-      "Minimum_Price": 2798.28,
-      "Maximum_Price": 4309.66
+      "Current_Price": 4328.44,
+      "Minimum_Price": 3051.52,
+      "Maximum_Price": 4337.83
     },
     {
       "State": "telangana",
