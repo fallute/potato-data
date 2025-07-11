@@ -2006,9 +2006,9 @@
     },
     {
       "State": "gujarat",
-      "Maximum_Price": 1612,
-      "Current_Price": 1374,
-      "Minimum_Price": 1095
+      "Maximum_Price": 1613,
+      "Current_Price": 1375,
+      "Minimum_Price": 1089
     },
     {
       "State": "haryana",
@@ -2018,8 +2018,8 @@
     },
     {
       "State": "himachal-pradesh",
-      "Maximum_Price": 1850,
-      "Current_Price": 1634,
+      "Maximum_Price": 1862,
+      "Current_Price": 1647,
       "Minimum_Price": 1403
     },
     {
@@ -2127,8 +2127,8 @@
     {
       "State": "west-bengal",
       "Maximum_Price": 1259,
-      "Current_Price": 1225,
-      "Minimum_Price": 1189
+      "Current_Price": 1224,
+      "Minimum_Price": 1188
     }
   ]
 }
