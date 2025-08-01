@@ -5035,9 +5035,9 @@
       "State": "odisha"
     },
     {
-      "Current_Price": 1055.56,
-      "Minimum_Price": 300.0,
-      "Maximum_Price": 2000.0,
+      "Current_Price": 1100.0,
+      "Minimum_Price": 800.0,
+      "Maximum_Price": 1400.0,
       "State": "punjab"
     },
     {
@@ -5065,9 +5065,9 @@
       "State": "tripura"
     },
     {
-      "Current_Price": 1093.36,
-      "Minimum_Price": 600.0,
-      "Maximum_Price": 1900.0,
+      "Current_Price": 1187.5,
+      "Minimum_Price": 700.0,
+      "Maximum_Price": 1680.0,
       "State": "uttar-pradesh"
     },
     {
