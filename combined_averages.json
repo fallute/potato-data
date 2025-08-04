@@ -5120,9 +5120,9 @@
   "2025-08-04": [
     {
       "State": "andhra-pradesh",
-      "Current_Price": 1525.0,
+      "Current_Price": 1500.0,
       "Minimum_Price": 1000.0,
-      "Maximum_Price": 2050.0
+      "Maximum_Price": 2000.0
     },
     {
       "State": "assam",
@@ -5150,27 +5150,27 @@
     },
     {
       "State": "delhi",
-      "Current_Price": 1384.0,
-      "Minimum_Price": 661.0,
-      "Maximum_Price": 2066.67
+      "Current_Price": 1376.0,
+      "Minimum_Price": 916.67,
+      "Maximum_Price": 1800.0
     },
     {
       "State": "gujarat",
-      "Current_Price": 1293.2,
-      "Minimum_Price": 801.57,
-      "Maximum_Price": 1695.07
+      "Current_Price": 1303.35,
+      "Minimum_Price": 801.07,
+      "Maximum_Price": 1737.07
     },
     {
       "State": "haryana",
-      "Current_Price": 1196.11,
-      "Minimum_Price": 937.36,
-      "Maximum_Price": 1922.94
+      "Current_Price": 1178.09,
+      "Minimum_Price": 934.61,
+      "Maximum_Price": 1909.44
     },
     {
       "State": "himachal-pradesh",
-      "Current_Price": 1654.08,
-      "Minimum_Price": 1322.67,
-      "Maximum_Price": 1993.75
+      "Current_Price": 1654.5,
+      "Minimum_Price": 1337.67,
+      "Maximum_Price": 2068.75
     },
     {
       "State": "jammu-and-kashmir",
@@ -5186,27 +5186,27 @@
     },
     {
       "State": "karnataka",
-      "Current_Price": 2369.75,
-      "Minimum_Price": 1897.75,
-      "Maximum_Price": 2821.5
+      "Current_Price": 2229.25,
+      "Minimum_Price": 1797.75,
+      "Maximum_Price": 2621.5
     },
     {
       "State": "kerala",
-      "Current_Price": 3335.36,
-      "Minimum_Price": 2779.28,
-      "Maximum_Price": 3938.79
+      "Current_Price": 3351.85,
+      "Minimum_Price": 2793.03,
+      "Maximum_Price": 3948.29
     },
     {
       "State": "madhya-pradesh",
-      "Current_Price": 1078.69,
-      "Minimum_Price": 758.02,
-      "Maximum_Price": 1304.12
+      "Current_Price": 1076.77,
+      "Minimum_Price": 760.02,
+      "Maximum_Price": 1304.62
     },
     {
       "State": "maharashtra",
-      "Current_Price": 1569.75,
-      "Minimum_Price": 1190.33,
-      "Maximum_Price": 2016.92
+      "Current_Price": 1562.75,
+      "Minimum_Price": 1172.33,
+      "Maximum_Price": 2014.92
     },
     {
       "State": "manipur",
@@ -5228,27 +5228,27 @@
     },
     {
       "State": "nagaland",
-      "Current_Price": 4505.0,
-      "Minimum_Price": 4177.0,
-      "Maximum_Price": 4825.0
+      "Current_Price": 4517.5,
+      "Minimum_Price": 4187.5,
+      "Maximum_Price": 4837.5
     },
     {
       "State": "odisha",
-      "Current_Price": 1752.79,
-      "Minimum_Price": 1482.25,
-      "Maximum_Price": 2175.0
+      "Current_Price": 1746.69,
+      "Minimum_Price": 1478.75,
+      "Maximum_Price": 2172.5
     },
     {
       "State": "punjab",
-      "Current_Price": 1047.49,
-      "Minimum_Price": 736.83,
-      "Maximum_Price": 1515.0
+      "Current_Price": 1047.69,
+      "Minimum_Price": 730.58,
+      "Maximum_Price": 1514.0
     },
     {
       "State": "rajasthan",
-      "Current_Price": 1343.38,
-      "Minimum_Price": 1052.22,
-      "Maximum_Price": 1597.9
+      "Current_Price": 1320.02,
+      "Minimum_Price": 1046.97,
+      "Maximum_Price": 1592.65
     },
     {
       "State": "tamil-nadu",
@@ -5258,33 +5258,33 @@
     },
     {
       "State": "telangana",
-      "Current_Price": 2345.25,
-      "Minimum_Price": 2104.75,
-      "Maximum_Price": 2635.25
+      "Current_Price": 2290.75,
+      "Minimum_Price": 2046.25,
+      "Maximum_Price": 2589.0
     },
     {
       "State": "tripura",
-      "Current_Price": 2021.61,
-      "Minimum_Price": 1674.54,
-      "Maximum_Price": 2401.39
+      "Current_Price": 2008.92,
+      "Minimum_Price": 1672.79,
+      "Maximum_Price": 2387.64
     },
     {
       "State": "uttar-pradesh",
-      "Current_Price": 1076.15,
-      "Minimum_Price": 874.97,
-      "Maximum_Price": 1421.08
+      "Current_Price": 1081.45,
+      "Minimum_Price": 874.64,
+      "Maximum_Price": 1499.08
     },
     {
       "State": "uttrakhand",
-      "Current_Price": 1134.14,
-      "Minimum_Price": 883.69,
-      "Maximum_Price": 1451.39
+      "Current_Price": 1110.89,
+      "Minimum_Price": 867.44,
+      "Maximum_Price": 1429.14
     },
     {
       "State": "west-bengal",
-      "Current_Price": 1254.22,
-      "Minimum_Price": 1153.67,
-      "Maximum_Price": 1539.42
+      "Current_Price": 1265.76,
+      "Minimum_Price": 1157.67,
+      "Maximum_Price": 1567.17
     }
   ]
 }
