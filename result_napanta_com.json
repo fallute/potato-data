@@ -4989,8 +4989,8 @@
     {
       "State": "kerala",
       "Maximum_Price": 3580,
-      "Current_Price": 3378,
-      "Minimum_Price": 3155
+      "Current_Price": 3403,
+      "Minimum_Price": 3168
     },
     {
       "State": "madhya-pradesh",
@@ -5042,9 +5042,9 @@
     },
     {
       "State": "rajasthan",
-      "Maximum_Price": 1408,
-      "Current_Price": 1255,
-      "Minimum_Price": 1094
+      "Maximum_Price": 1411,
+      "Current_Price": 1258,
+      "Minimum_Price": 1096
     },
     {
       "State": "tamil-nadu",
