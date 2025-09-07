@@ -4964,8 +4964,8 @@
     },
     {
       "State": "haryana",
-      "Maximum_Price": 1267,
-      "Current_Price": 1104,
+      "Maximum_Price": 1265,
+      "Current_Price": 1103,
       "Minimum_Price": 980
     },
     {
@@ -5030,9 +5030,9 @@
     },
     {
       "State": "odisha",
-      "Maximum_Price": 2188,
-      "Current_Price": 2053,
-      "Minimum_Price": 1941
+      "Maximum_Price": 2152,
+      "Current_Price": 2019,
+      "Minimum_Price": 1907
     },
     {
       "State": "punjab",
