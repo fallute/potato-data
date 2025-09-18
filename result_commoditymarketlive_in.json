@@ -4094,9 +4094,9 @@
     },
     {
       "State": "bihar",
-      "Minimum_Price": 1675.0,
-      "Maximum_Price": 1925.0,
-      "Current_Price": 1800.0
+      "Minimum_Price": 2000.0,
+      "Maximum_Price": 2200.0,
+      "Current_Price": 2100.0
     },
     {
       "State": "chandigarh",
@@ -4118,21 +4118,21 @@
     },
     {
       "State": "gujarat",
-      "Minimum_Price": 1014.75,
-      "Maximum_Price": 1617.25,
-      "Current_Price": 1346.0
+      "Minimum_Price": 375.0,
+      "Maximum_Price": 1200.0,
+      "Current_Price": 787.5
     },
     {
       "State": "haryana",
-      "Minimum_Price": 996.0,
-      "Maximum_Price": 1354.91,
-      "Current_Price": 1138.18
+      "Minimum_Price": 954.55,
+      "Maximum_Price": 1574.55,
+      "Current_Price": 1174.55
     },
     {
       "State": "himachal-pradesh",
-      "Minimum_Price": 1364.71,
-      "Maximum_Price": 2370.59,
-      "Current_Price": 1750.0
+      "Minimum_Price": 1450.0,
+      "Maximum_Price": 1950.0,
+      "Current_Price": 1666.67
     },
     {
       "State": "jharkhand",
@@ -4148,27 +4148,27 @@
     },
     {
       "State": "kerala",
-      "Minimum_Price": 3002.94,
-      "Maximum_Price": 3550.0,
-      "Current_Price": 3305.88
+      "Minimum_Price": 2820.0,
+      "Maximum_Price": 3260.0,
+      "Current_Price": 3050.0
     },
     {
       "State": "madhya-pradesh",
-      "Minimum_Price": 1107.39,
-      "Maximum_Price": 1507.06,
-      "Current_Price": 1337.94
+      "Minimum_Price": 600.0,
+      "Maximum_Price": 600.0,
+      "Current_Price": 600.0
     },
     {
       "State": "maharashtra",
-      "Minimum_Price": 1077.78,
-      "Maximum_Price": 1716.67,
-      "Current_Price": 1421.72
+      "Minimum_Price": 1550.0,
+      "Maximum_Price": 1800.0,
+      "Current_Price": 1650.0
     },
     {
       "State": "jammu-and-kashmir",
-      "Minimum_Price": 1542.86,
-      "Maximum_Price": 1842.86,
-      "Current_Price": 1692.86
+      "Minimum_Price": 1400.0,
+      "Maximum_Price": 1650.0,
+      "Current_Price": 1525.0
     },
     {
       "State": "manipur",
@@ -4196,21 +4196,21 @@
     },
     {
       "State": "odisha",
-      "Minimum_Price": 1772.73,
-      "Maximum_Price": 2090.91,
-      "Current_Price": 1954.55
+      "Minimum_Price": 1620.0,
+      "Maximum_Price": 1900.0,
+      "Current_Price": 1740.0
     },
     {
       "State": "punjab",
-      "Minimum_Price": 909.87,
-      "Maximum_Price": 1152.44,
-      "Current_Price": 1007.05
+      "Minimum_Price": 897.27,
+      "Maximum_Price": 1140.0,
+      "Current_Price": 1012.73
     },
     {
       "State": "rajasthan",
-      "Minimum_Price": 1046.15,
-      "Maximum_Price": 1407.69,
-      "Current_Price": 1234.62
+      "Minimum_Price": 1383.33,
+      "Maximum_Price": 1716.67,
+      "Current_Price": 1541.67
     },
     {
       "State": "tamil-nadu",
@@ -4220,33 +4220,33 @@
     },
     {
       "State": "telangana",
-      "Minimum_Price": 1933.33,
-      "Maximum_Price": 2333.33,
-      "Current_Price": 2166.67
+      "Minimum_Price": 2150.0,
+      "Maximum_Price": 2250.0,
+      "Current_Price": 2200.0
     },
     {
       "State": "tripura",
-      "Minimum_Price": 1795.0,
-      "Maximum_Price": 2130.0,
-      "Current_Price": 1945.0
+      "Minimum_Price": 1700.0,
+      "Maximum_Price": 1900.0,
+      "Current_Price": 1800.0
     },
     {
       "State": "uttar-pradesh",
-      "Minimum_Price": 1630.0,
-      "Maximum_Price": 1680.0,
-      "Current_Price": 1660.0
+      "Minimum_Price": 1040.61,
+      "Maximum_Price": 1190.37,
+      "Current_Price": 1120.85
     },
     {
       "State": "uttrakhand",
-      "Minimum_Price": 914.29,
-      "Maximum_Price": 1214.29,
-      "Current_Price": 1085.71
+      "Minimum_Price": 842.86,
+      "Maximum_Price": 1328.57,
+      "Current_Price": 1150.0
     },
     {
       "State": "west-bengal",
-      "Minimum_Price": 1424.23,
-      "Maximum_Price": 1477.31,
-      "Current_Price": 1450.38
+      "Minimum_Price": 1121.11,
+      "Maximum_Price": 1181.11,
+      "Current_Price": 1157.78
     }
   ]
 }
