@@ -4958,15 +4958,15 @@
     },
     {
       "State": "gujarat",
-      "Maximum_Price": 1600,
-      "Current_Price": 1333,
-      "Minimum_Price": 1023
+      "Maximum_Price": 1607,
+      "Current_Price": 1339,
+      "Minimum_Price": 1028
     },
     {
       "State": "haryana",
-      "Maximum_Price": 1340,
-      "Current_Price": 1142,
-      "Minimum_Price": 1003
+      "Maximum_Price": 1331,
+      "Current_Price": 1136,
+      "Minimum_Price": 997
     },
     {
       "State": "himachal-pradesh",
@@ -4989,20 +4989,20 @@
     {
       "State": "kerala",
       "Maximum_Price": 3555,
-      "Current_Price": 3356,
-      "Minimum_Price": 3123
+      "Current_Price": 3358,
+      "Minimum_Price": 3127
     },
     {
       "State": "madhya-pradesh",
-      "Maximum_Price": 1193,
-      "Current_Price": 1109,
-      "Minimum_Price": 994
+      "Maximum_Price": 1199,
+      "Current_Price": 1113,
+      "Minimum_Price": 997
     },
     {
       "State": "maharashtra",
-      "Maximum_Price": 1990,
-      "Current_Price": 1675,
-      "Minimum_Price": 1343
+      "Maximum_Price": 1988,
+      "Current_Price": 1673,
+      "Minimum_Price": 1340
     },
     {
       "State": "manipur",
@@ -5030,15 +5030,15 @@
     },
     {
       "State": "odisha",
-      "Maximum_Price": 2139,
-      "Current_Price": 2032,
-      "Minimum_Price": 1906
+      "Maximum_Price": 2126,
+      "Current_Price": 2019,
+      "Minimum_Price": 1890
     },
     {
       "State": "punjab",
-      "Maximum_Price": 1196,
+      "Maximum_Price": 1198,
       "Current_Price": 1048,
-      "Minimum_Price": 935
+      "Minimum_Price": 938
     },
     {
       "State": "rajasthan",
@@ -5060,9 +5060,9 @@
     },
     {
       "State": "tripura",
-      "Maximum_Price": 2146,
-      "Current_Price": 2002,
-      "Minimum_Price": 1862
+      "Maximum_Price": 2152,
+      "Current_Price": 2008,
+      "Minimum_Price": 1868
     },
     {
       "State": "uttar-pradesh",
@@ -5080,7 +5080,7 @@
       "State": "west-bengal",
       "Maximum_Price": 1319,
       "Current_Price": 1289,
-      "Minimum_Price": 1259
+      "Minimum_Price": 1258
     }
   ]
 }
