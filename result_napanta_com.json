@@ -4922,15 +4922,15 @@
   "2026-01-29": [
     {
       "State": "andhra-pradesh",
-      "Maximum_Price": 2500,
-      "Current_Price": 2150,
-      "Minimum_Price": 1700
+      "Maximum_Price": 2250,
+      "Current_Price": 1900,
+      "Minimum_Price": 1450
     },
     {
       "State": "assam",
-      "Maximum_Price": 1742,
-      "Current_Price": 1588,
-      "Minimum_Price": 1458
+      "Maximum_Price": 1743,
+      "Current_Price": 1591,
+      "Minimum_Price": 1461
     },
     {
       "State": "bihar",
@@ -4964,14 +4964,14 @@
     },
     {
       "State": "haryana",
-      "Maximum_Price": 897,
-      "Current_Price": 774,
-      "Minimum_Price": 685
+      "Maximum_Price": 899,
+      "Current_Price": 776,
+      "Minimum_Price": 686
     },
     {
       "State": "himachal-pradesh",
-      "Maximum_Price": 1688,
-      "Current_Price": 1398,
+      "Maximum_Price": 1686,
+      "Current_Price": 1397,
       "Minimum_Price": 1153
     },
     {
@@ -4988,9 +4988,9 @@
     },
     {
       "State": "kerala",
-      "Maximum_Price": 3607,
-      "Current_Price": 3390,
-      "Minimum_Price": 3178
+      "Maximum_Price": 3605,
+      "Current_Price": 3388,
+      "Minimum_Price": 3176
     },
     {
       "State": "madhya-pradesh",
@@ -5030,15 +5030,15 @@
     },
     {
       "State": "odisha",
-      "Maximum_Price": 2045,
-      "Current_Price": 1919,
-      "Minimum_Price": 1799
+      "Maximum_Price": 2067,
+      "Current_Price": 1940,
+      "Minimum_Price": 1820
     },
     {
       "State": "punjab",
-      "Maximum_Price": 861,
-      "Current_Price": 793,
-      "Minimum_Price": 712
+      "Maximum_Price": 859,
+      "Current_Price": 791,
+      "Minimum_Price": 711
     },
     {
       "State": "rajasthan",
@@ -5055,8 +5055,8 @@
     {
       "State": "telangana",
       "Maximum_Price": 1885,
-      "Current_Price": 1690,
-      "Minimum_Price": 1360
+      "Current_Price": 1692,
+      "Minimum_Price": 1365
     },
     {
       "State": "tripura",
