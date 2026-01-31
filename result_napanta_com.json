@@ -4964,7 +4964,7 @@
     },
     {
       "State": "haryana",
-      "Maximum_Price": 883,
+      "Maximum_Price": 882,
       "Current_Price": 775,
       "Minimum_Price": 684
     },
@@ -4988,9 +4988,9 @@
     },
     {
       "State": "kerala",
-      "Maximum_Price": 3609,
-      "Current_Price": 3385,
-      "Minimum_Price": 3177
+      "Maximum_Price": 3610,
+      "Current_Price": 3384,
+      "Minimum_Price": 3175
     },
     {
       "State": "madhya-pradesh",
