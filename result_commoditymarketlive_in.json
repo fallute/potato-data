@@ -5240,15 +5240,15 @@
     },
     {
       "State": "telangana",
-      "Minimum_Price": 1500.0,
-      "Maximum_Price": 2000.0,
-      "Current_Price": 1750.0
+      "Minimum_Price": 0,
+      "Maximum_Price": 0,
+      "Current_Price": 0
     },
     {
       "State": "tripura",
-      "Minimum_Price": 1600.0,
-      "Maximum_Price": 1800.0,
-      "Current_Price": 1700.0
+      "Minimum_Price": 0,
+      "Maximum_Price": 0,
+      "Current_Price": 0
     },
     {
       "State": "uttar-pradesh",
