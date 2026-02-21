@@ -5108,9 +5108,9 @@
     },
     {
       "State": "assam",
-      "Minimum_Price": 1066.67,
-      "Maximum_Price": 1266.67,
-      "Current_Price": 1166.67
+      "Minimum_Price": 1000.0,
+      "Maximum_Price": 1200.0,
+      "Current_Price": 1100.0
     },
     {
       "State": "bihar",
@@ -5138,15 +5138,15 @@
     },
     {
       "State": "gujarat",
-      "Minimum_Price": 800.0,
-      "Maximum_Price": 1200.0,
+      "Minimum_Price": 400.0,
+      "Maximum_Price": 1400.0,
       "Current_Price": 900.0
     },
     {
       "State": "haryana",
-      "Minimum_Price": 450.0,
-      "Maximum_Price": 700.0,
-      "Current_Price": 575.0
+      "Minimum_Price": 650.0,
+      "Maximum_Price": 850.0,
+      "Current_Price": 750.0
     },
     {
       "State": "himachal-pradesh",
@@ -5228,15 +5228,15 @@
     },
     {
       "State": "rajasthan",
-      "Minimum_Price": 500.0,
-      "Maximum_Price": 750.0,
-      "Current_Price": 650.0
+      "Minimum_Price": 1000.0,
+      "Maximum_Price": 1200.0,
+      "Current_Price": 1100.0
     },
     {
       "State": "tamil-nadu",
-      "Minimum_Price": 3263.16,
-      "Maximum_Price": 3652.63,
-      "Current_Price": 3457.89
+      "Minimum_Price": 3500.0,
+      "Maximum_Price": 3800.0,
+      "Current_Price": 3650.0
     },
     {
       "State": "telangana",
@@ -5246,9 +5246,9 @@
     },
     {
       "State": "tripura",
-      "Minimum_Price": 1600.0,
-      "Maximum_Price": 1800.0,
-      "Current_Price": 1700.0
+      "Minimum_Price": 1500.0,
+      "Maximum_Price": 1700.0,
+      "Current_Price": 1600.0
     },
     {
       "State": "uttar-pradesh",
@@ -5258,9 +5258,9 @@
     },
     {
       "State": "uttrakhand",
-      "Minimum_Price": 600.0,
-      "Maximum_Price": 733.33,
-      "Current_Price": 666.67
+      "Minimum_Price": 400.0,
+      "Maximum_Price": 500.0,
+      "Current_Price": 450.0
     },
     {
       "State": "west-bengal",
