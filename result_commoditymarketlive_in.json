@@ -5222,9 +5222,9 @@
     },
     {
       "State": "punjab",
-      "Minimum_Price": 565.0,
-      "Maximum_Price": 677.5,
-      "Current_Price": 615.0
+      "Minimum_Price": 1000.0,
+      "Maximum_Price": 1000.0,
+      "Current_Price": 1000.0
     },
     {
       "State": "rajasthan",
@@ -5234,9 +5234,9 @@
     },
     {
       "State": "tamil-nadu",
-      "Minimum_Price": 3147.06,
-      "Maximum_Price": 3652.94,
-      "Current_Price": 3400.0
+      "Minimum_Price": 3260.0,
+      "Maximum_Price": 3400.0,
+      "Current_Price": 3330.0
     },
     {
       "State": "telangana",
@@ -5264,9 +5264,9 @@
     },
     {
       "State": "west-bengal",
-      "Minimum_Price": 1357.5,
-      "Maximum_Price": 1512.5,
-      "Current_Price": 1440.0
+      "Minimum_Price": 800.0,
+      "Maximum_Price": 900.0,
+      "Current_Price": 850.0
     }
   ]
 }
