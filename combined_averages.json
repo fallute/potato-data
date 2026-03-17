@@ -5120,9 +5120,9 @@
     },
     {
       "State": "chandigarh",
-      "Current_Price": 475.0,
-      "Minimum_Price": 150.0,
-      "Maximum_Price": 687.5
+      "Current_Price": 477.5,
+      "Minimum_Price": 165.0,
+      "Maximum_Price": 1162.5
     },
     {
       "State": "chattisgarh",
@@ -5144,14 +5144,14 @@
     },
     {
       "State": "haryana",
-      "Current_Price": 818.75,
-      "Minimum_Price": 689.0,
-      "Maximum_Price": 1031.25
+      "Current_Price": 900.25,
+      "Minimum_Price": 751.5,
+      "Maximum_Price": 1081.5
     },
     {
       "State": "himachal-pradesh",
-      "Current_Price": 1225.0,
-      "Minimum_Price": 999.75,
+      "Current_Price": 1218.75,
+      "Minimum_Price": 1012.25,
       "Maximum_Price": 1403.5
     },
     {
@@ -5174,15 +5174,15 @@
     },
     {
       "State": "kerala",
-      "Current_Price": 3372.25,
-      "Minimum_Price": 2935.75,
-      "Maximum_Price": 3822.5
+      "Current_Price": 3219.08,
+      "Minimum_Price": 2862.25,
+      "Maximum_Price": 3673.5
     },
     {
       "State": "madhya-pradesh",
-      "Current_Price": 640.92,
+      "Current_Price": 568.0,
       "Minimum_Price": 502.5,
-      "Maximum_Price": 738.0
+      "Maximum_Price": 713.0
     },
     {
       "State": "maharashtra",
@@ -5222,21 +5222,21 @@
     },
     {
       "State": "punjab",
-      "Current_Price": 655.58,
-      "Minimum_Price": 571.25,
-      "Maximum_Price": 758.5
+      "Current_Price": 659.5,
+      "Minimum_Price": 571.0,
+      "Maximum_Price": 733.25
     },
     {
       "State": "rajasthan",
-      "Current_Price": 828.0,
-      "Minimum_Price": 739.25,
-      "Maximum_Price": 922.5
+      "Current_Price": 928.0,
+      "Minimum_Price": 789.25,
+      "Maximum_Price": 1072.5
     },
     {
       "State": "tamil-nadu",
-      "Current_Price": 3482.66,
-      "Minimum_Price": 3007.12,
-      "Maximum_Price": 3894.81
+      "Current_Price": 3498.94,
+      "Minimum_Price": 2907.93,
+      "Maximum_Price": 3976.37
     },
     {
       "State": "telangana",
@@ -5247,14 +5247,14 @@
     {
       "State": "tripura",
       "Current_Price": 1739.0,
-      "Minimum_Price": 1589.75,
-      "Maximum_Price": 1911.25
+      "Minimum_Price": 1614.75,
+      "Maximum_Price": 1886.25
     },
     {
       "State": "uttar-pradesh",
-      "Current_Price": 876.36,
-      "Minimum_Price": 661.5,
-      "Maximum_Price": 1111.25
+      "Current_Price": 907.25,
+      "Minimum_Price": 786.5,
+      "Maximum_Price": 1011.25
     },
     {
       "State": "uttrakhand",
@@ -5264,9 +5264,9 @@
     },
     {
       "State": "west-bengal",
-      "Current_Price": 1008.0,
-      "Minimum_Price": 943.12,
-      "Maximum_Price": 1079.5
+      "Current_Price": 1021.5,
+      "Minimum_Price": 985.62,
+      "Maximum_Price": 1059.5
     }
   ]
 }
