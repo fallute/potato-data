@@ -5138,15 +5138,15 @@
     },
     {
       "State": "gujarat",
-      "Minimum_Price": 750.0,
-      "Maximum_Price": 1200.0,
-      "Current_Price": 975.0
+      "Minimum_Price": 300.0,
+      "Maximum_Price": 1400.0,
+      "Current_Price": 850.0
     },
     {
       "State": "haryana",
-      "Minimum_Price": 750.0,
-      "Maximum_Price": 950.0,
-      "Current_Price": 850.0
+      "Minimum_Price": 600.0,
+      "Maximum_Price": 800.0,
+      "Current_Price": 700.0
     },
     {
       "State": "himachal-pradesh",
@@ -5234,9 +5234,9 @@
     },
     {
       "State": "tamil-nadu",
-      "Minimum_Price": 2882.61,
-      "Maximum_Price": 3254.35,
-      "Current_Price": 3068.48
+      "Minimum_Price": 2600.0,
+      "Maximum_Price": 3000.0,
+      "Current_Price": 2800.0
     },
     {
       "State": "telangana",
