@@ -5132,9 +5132,9 @@
     },
     {
       "State": "delhi",
-      "Minimum_Price": 0,
-      "Maximum_Price": 0,
-      "Current_Price": 0
+      "Minimum_Price": 400.0,
+      "Maximum_Price": 700.0,
+      "Current_Price": 550.0
     },
     {
       "State": "gujarat",
@@ -5198,9 +5198,9 @@
     },
     {
       "State": "meghalaya",
-      "Minimum_Price": 0,
-      "Maximum_Price": 0,
-      "Current_Price": 0
+      "Minimum_Price": 1300.0,
+      "Maximum_Price": 1500.0,
+      "Current_Price": 1400.0
     },
     {
       "State": "mizoram",
