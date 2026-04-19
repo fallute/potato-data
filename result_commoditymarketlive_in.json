@@ -5108,9 +5108,9 @@
     },
     {
       "State": "assam",
-      "Minimum_Price": 800.0,
-      "Maximum_Price": 900.0,
-      "Current_Price": 900.0
+      "Minimum_Price": 0,
+      "Maximum_Price": 0,
+      "Current_Price": 0
     },
     {
       "State": "bihar",
@@ -5174,9 +5174,9 @@
     },
     {
       "State": "madhya-pradesh",
-      "Minimum_Price": 500.0,
-      "Maximum_Price": 500.0,
-      "Current_Price": 500.0
+      "Minimum_Price": 0,
+      "Maximum_Price": 0,
+      "Current_Price": 0
     },
     {
       "State": "maharashtra",
@@ -5192,9 +5192,9 @@
     },
     {
       "State": "manipur",
-      "Minimum_Price": 1500.0,
-      "Maximum_Price": 2000.0,
-      "Current_Price": 1750.0
+      "Minimum_Price": 0,
+      "Maximum_Price": 0,
+      "Current_Price": 0
     },
     {
       "State": "meghalaya",
