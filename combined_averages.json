@@ -5108,9 +5108,9 @@
     },
     {
       "State": "assam",
-      "Current_Price": 1225.5,
+      "Current_Price": 1138.0,
       "Minimum_Price": 1016.25,
-      "Maximum_Price": 1571.25
+      "Maximum_Price": 1271.25
     },
     {
       "State": "bihar",
@@ -5144,9 +5144,9 @@
     },
     {
       "State": "haryana",
-      "Current_Price": 633.66,
-      "Minimum_Price": 408.25,
-      "Maximum_Price": 1446.75
+      "Current_Price": 689.25,
+      "Minimum_Price": 531.25,
+      "Maximum_Price": 871.75
     },
     {
       "State": "himachal-pradesh",
@@ -5174,9 +5174,9 @@
     },
     {
       "State": "kerala",
-      "Current_Price": 2720.0,
-      "Minimum_Price": 2336.25,
-      "Maximum_Price": 3441.5
+      "Current_Price": 2586.75,
+      "Minimum_Price": 2411.25,
+      "Maximum_Price": 2816.5
     },
     {
       "State": "madhya-pradesh",
@@ -5216,15 +5216,15 @@
     },
     {
       "State": "odisha",
-      "Current_Price": 1304.0,
-      "Minimum_Price": 1070.25,
+      "Current_Price": 1404.0,
+      "Minimum_Price": 1245.25,
       "Maximum_Price": 1524.0
     },
     {
       "State": "punjab",
-      "Current_Price": 530.83,
-      "Minimum_Price": 404.25,
-      "Maximum_Price": 718.25
+      "Current_Price": 543.0,
+      "Minimum_Price": 491.75,
+      "Maximum_Price": 590.75
     },
     {
       "State": "rajasthan",
@@ -5246,20 +5246,20 @@
     },
     {
       "State": "tripura",
-      "Current_Price": 1584.0,
+      "Current_Price": 1490.25,
       "Minimum_Price": 1360.0,
-      "Maximum_Price": 1876.75
+      "Maximum_Price": 1626.75
     },
     {
       "State": "uttar-pradesh",
-      "Current_Price": 569.92,
-      "Minimum_Price": 516.62,
-      "Maximum_Price": 711.12
+      "Current_Price": 554.93,
+      "Minimum_Price": 519.12,
+      "Maximum_Price": 603.62
     },
     {
       "State": "uttrakhand",
-      "Current_Price": 944.0,
-      "Minimum_Price": 724.33,
+      "Current_Price": 1067.33,
+      "Minimum_Price": 891.0,
       "Maximum_Price": 1243.33
     },
     {
